@@ -1,8 +1,40 @@
 html {
 	background: lavender;
+	font-family: soap,sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	text-align: center;
 }
 
 h1 {
-	color: green;
+	color: white;
+	font-family: soap,sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 70px;
+	margin-top: 3vw;
 }
 
+.rectangle {
+	width: 25vw;
+	height: 18.75vw;
+	position: absolute;
+	background-color: #ABD1C9FF;
+	left: 37vw;
+	top: 12vw;
+
+}
+#pic img {
+	width: 25vw;
+	left: 35vw;
+	top: 10vw;
+	position: absolute;
+}
+
+.navigation {
+	font-size: 50px;
+	color: white;
+	left: 45vw;
+	position: absolute;
+	top: 35vw;
+}

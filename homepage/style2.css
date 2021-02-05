@@ -1,0 +1,45 @@
+html {
+	background: lavender;
+	font-family: soap,sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	text-align: center;
+}
+
+h1 {
+	color: #ABD1C9FF;
+	font-family: soap,sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 70px;
+	margin-top: 3vw;
+}
+h2 {
+	color: white;
+	font-size: 50px;
+}
+ol {
+	color: white;
+	font-size: 30px;
+	list-style-type: decimal-leading-zero;
+	list-style-position: inside;
+
+}
+ul {
+	font-family: soap,sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	color: white;
+	font-size: 50px;
+	list-style-type: circle;
+	list-style-position: inside;
+}
+
+
+.navigation {
+	font-size: 50px;
+	color: white;
+	left: 45vw;
+	position: absolute;
+	top: 35vw;
+}
