@@ -43,3 +43,6 @@ ul {
 	position: absolute;
 	top: 35vw;
 }
+a:hover {
+	color: #EA738DFF;
+}
