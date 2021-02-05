@@ -1,0 +1,45 @@
+body {
+	background-image: url("images/clouds.jpg");
+	background-size: cover;
+	color: white;
+	margin-top: 5%;
+	margin-left: 20%;
+	margin-right: 20%;
+	font-family: brandon-grotesque,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 20px;
+	position: absolute;
+}
+#button img{
+	width: 10vw;
+	top: 25vw;
+	left: 27vw;
+	position: absolute;
+}
+
+h3{
+	margin-top: 16vw;
+	position: absolute;
+}
+h4 {
+	
+}
+#title img{
+	margin-left: 20vw;
+	width: 35vw;
+	position: absolute;
+
+	
+}
+
+p {
+	margin-top: 31vw;
+}
+
+#music img{
+	width: 3.5vw;
+	margin-left: 23vw;
+	margin-top: 26vw;
+	position: absolute;
+}
